@@ -16,5 +16,5 @@ Showing Video Player
 Showing Thumbnail URL
 
 	<?php 
-	echo yt_image("http://www.youtube.com/watch?v=yioJQFrqMXM"));
+	echo yt_image("http://www.youtube.com/watch?v=yioJQFrqMXM");
 
